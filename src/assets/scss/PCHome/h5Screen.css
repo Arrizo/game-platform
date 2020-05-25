@@ -1,0 +1,196 @@
+.all{
+  min-width: 1200px;
+  overflow: hidden;
+}
+.top-pc{
+  width: 100%;
+  height: 65px;
+  background-color: #fff;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  min-width: 1200px;
+}
+.top-pc-main{
+  width: 1200px;
+  margin: 0 auto;
+  position: relative;
+}
+.top-pc-main .logo{
+  position: absolute;
+  left: 0px;
+  top: 10px;
+  width: 154px;
+}
+.top-pc-nav{
+  position: relative;
+  z-index: 1;
+  font-family: "Microsoft YaHei",SimSun;
+  font-size: 12px;
+  float: right;
+  background-color: #fff;
+  transition: 0.35s all;
+}
+.top-pc-nav:hover{background-color:#f5f5f5 }
+.top-pc-nav:hover .top-pc-width .user-name{color:#00a0e9 }
+.top-pc-nav:hover ul{display: block}
+
+.top-pc-width{
+  padding: 10px 25px;
+  line-height: 45px;
+  width: 134px;
+  height: 45px;
+}
+.top-pc-width .user-icon{
+  width: 42px;
+  height: 42px;
+  margin-right: 10px;
+  float: left;
+}
+.top-pc-width .user-name{
+  float: left;
+  width: 80px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+.pc-left{
+  position: absolute;
+  margin-left: -600px;
+  left: 50%;
+  bottom: 20%;
+}
+.pc-left .menu{
+  width: 306px;
+  height: 210px;
+  text-align: left;
+  padding: 14px 17px;
+  color:#565656;
+  background: url("../../img/PCHome/menu.png") no-repeat;
+}
+.pc-left .menu p{
+  line-height: 25px;
+}
+.menu-btn{
+  width: 145px;
+  height: 66px;
+  color: #fff;
+  font-size: 24px;
+  line-height: 66px;
+  text-align: center;
+  margin: 7px 4px;
+  float: left;
+  background: url("../../img/PCHome/menu_btn.png") no-repeat;
+}
+.menu-btn:hover{
+  background:url("../../img/PCHome/menu_btn2.png") no-repeat ;
+}
+.jf-h5{
+  position: relative;
+  bottom: 7px;
+  left: 50%;
+  background: url("../../img/PCHome/phone.png") no-repeat;
+  background-size: 100%;
+}
+.h5-hscreen{
+  width: 28px;
+  height: 97px;
+  text-align: center;
+  font-size: 15px;
+  line-height: 16px;
+  color: #fff;
+  cursor: pointer;
+  position: absolute;
+  top: 192px;
+  right: -17px;
+  background: #00a0e9;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+.h5-hscreen .icon-resize{
+  width: 17px;
+  height: 16px;
+  display: block;
+  margin: 7px 5px 5px 5px;
+  background: url("../../img/PCHome/rotate-icon.png") no-repeat;
+}
+.h5-hscreen:hover{
+  background:#00afff;
+}
+.pc-right{
+  position: absolute;
+  left: 50%;
+  bottom: 20%;
+  margin-left: 256px;
+}
+.pc-right .mobile2{
+  width: 282px;
+  height: 310px;
+  position: relative;
+  z-index: 20;
+  background: url("../../img/PCHome/mobile3.png") no-repeat bottom center;
+}
+.qr-code{
+  width: 220px;
+  height: 250px;
+  padding: 10px 0px 10px;
+  text-align: center;
+  position: absolute;
+  left: 28px;
+  background: url("../../../assets/img/PCHome/code_bg.png") no-repeat ;
+  background-size: 100%;
+}
+.qr-code .lose{
+  width: 100%;
+  height: 170px;
+  margin: 0 auto;
+  line-height: 170px;
+  position: relative;
+}
+.qr-text{
+  width: 200px;
+  height: 185px;
+  position:absolute;
+  top: 0px;
+  left: 10px;
+  font-size: 17px;
+  color: #ffffff;
+  background: rgba(0,0,0,0.7);
+}
+.qr-code .refresh{
+  cursor: pointer;
+  position: relative;
+  z-index: 500;
+}
+.Rotate{
+  transform: rotate(-90deg);
+  transition: 0.35s all;
+}
+.RotateText{
+  display: block;
+  transform: rotate(90deg);
+}
+.pc-l-h{left:36%;}
+.pc-r-h{left:64%;}
+
+.clear{
+  zoom: 1;
+}
+.clearfix:after{
+  content: "";
+  display: block;
+  clear: both;
+}
+.blue{
+  color: #00a0e9;
+}
+.bold{
+  font-weight: bold;
+}
+.size18{
+  font-size: 18px;
+}
+.top-pc span,.pc-left a, .jf-h5 .h5-hscreen{
+  transition: all 0.35s;
+}
+

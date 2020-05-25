@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 280 97" style="enable-background:new 0 0 280 97;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#1787DD;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M44,96.5C20,96.5,0.5,77,0.5,53C0.5,29,20,9.5,44,9.5h192c24,0,43.5,19.5,43.5,43.5c0,24-19.5,43.5-43.5,43.5
+			H44z"/>
+		<path class="st1" d="M236,10c23.7,0,43,19.3,43,43c0,23.7-19.3,43-43,43H44C20.3,96,1,76.7,1,53c0-23.7,19.3-43,43-43H236 M236,9
+			H44C19.8,9,0,28.8,0,53v0c0,24.2,19.8,44,44,44h192c24.2,0,44-19.8,44-44v0C280,28.8,260.2,9,236,9L236,9z"/>
+	</g>
+	<g>
+		<circle class="st1" cx="254" cy="16" r="16"/>
+		<g>
+			<path class="st0" d="M264.4,14.3c-2-2.3-5.9-6.1-10.4-6.1c-4.3,0-8.1,3.5-10.2,5.8c-1,1.1-1,2.9,0,4c2,2.3,5.8,5.8,10.2,5.8
+				c4.5,0,8.5-3.8,10.4-6.1C265.2,16.7,265.2,15.3,264.4,14.3z M254,20.2c-2.3,0-4.2-1.9-4.2-4.2s1.9-4.2,4.2-4.2
+				c2.3,0,4.2,1.9,4.2,4.2S256.3,20.2,254,20.2z"/>
+			<circle class="st0" cx="254" cy="16" r="2.2"/>
+		</g>
+	</g>
+</g>
+</svg>

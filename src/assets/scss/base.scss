@@ -1,0 +1,106 @@
+// body,
+// html {
+//   height: 100%;
+//   width: 100%;
+//   -ms-overflow-style: none;
+//   overflow: -moz-scrollbars-none;
+// }
+
+// html::-webkit-scrollbar {
+//   width: 0px
+// }
+body,
+td,
+input,
+select,
+textarea,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 12px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+}
+
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+form,
+fieldset,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+img {
+  border: 0;
+  vertical-align: top;
+}
+
+input,
+select,
+textarea {
+  vertical-align: middle;
+}
+
+/* link */
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.clearfix:after {
+  visibility: hidden;
+  display: block;
+  font-size: 0;
+  content: "";
+  clear: both;
+  height: 0;
+}
+
+.clearfix {
+  *zoom: 1;
+}
+
+.mar-cent {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}

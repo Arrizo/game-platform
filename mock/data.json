@@ -1,0 +1,344 @@
+{
+  "list": {
+    "code": 200,
+    "msg": "Successful",
+    "data": {
+      "key": "appList",
+      "appList": [
+        {
+          "appId": 123456789,
+          "appName": "ddtank",
+          "appType": "休闲类",
+          "appTags": [
+            {
+              "tagId": "1",
+              "tagName": "热门"
+            },
+            {
+              "tagId": "2",
+              "tagName": "新游"
+            }
+          ],
+          "appIconUrl": " http://www.ddtank.us/v2/templet/ddtank_website/images/vip.jpg",
+          "appPopularity": "1000",
+          "appRate": "4",
+          "briefIntro": "This is a casual game.",
+          "appOrder": "3"
+        },{
+          "appId": 123456789,
+          "appName": "ddtank",
+          "appType": "休闲类",
+          "appTags": [
+            {
+              "tagId": "1",
+              "tagName": "热门"
+            },
+            {
+              "tagId": "2",
+              "tagName": "新游"
+            }
+          ],
+          "appIconUrl": " http://www.ddtank.us/v2/templet/ddtank_website/images/vip.jpg",
+          "appPopularity": "1000",
+          "appRate": "4",
+          "briefIntro": "This is a casual game.",
+          "appOrder": "3"
+        },{
+          "appId": 123456789,
+          "appName": "ddtank",
+          "appType": "休闲类",
+          "appTags": [
+            {
+              "tagId": "1",
+              "tagName": "热门"
+            },
+            {
+              "tagId": "2",
+              "tagName": "新游"
+            }
+          ],
+          "appIconUrl": " http://www.ddtank.us/v2/templet/ddtank_website/images/vip.jpg",
+          "appPopularity": "1000",
+          "appRate": "4",
+          "briefIntro": "This is a casual game.",
+          "appOrder": "3"
+        }
+      ]
+    }
+  },
+  "bannerSwiperArr": [
+    {
+      "src": "imgSlide",
+      "href": "/game1",
+      "id": "1",
+      "name": "DDTank1"
+    },
+    {
+      "src": "imgSlide",
+      "href": "/game2",
+      "id": "2",
+      "name": "DDTank2"
+    },
+    {
+      "src": "imgSlide",
+      "href": "/game3",
+      "id": "3",
+      "name": "DDTank3"
+    },
+    {
+      "src": "imgSlide",
+      "href": "/game4",
+      "id": "4",
+      "name": "DDTank4"
+    }
+  ],
+  "marqueeSwiperArr": [
+    {
+      "href": "/marquee1",
+      "id": "1",
+      "text": "1最游戏推荐 《弹弹堂S》新年活动"
+    },
+    {
+      "href": "/marquee2",
+      "id": "2",
+      "text": "2xxxxxxxxxxxxxxxxxxxxxx"
+    },
+    {
+      "href": "/marquee3",
+      "id": "3",
+      "text": "3xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    }
+  ],
+  "playedSwiperArr": [
+    {
+      "href": "/played1",
+      "id": "1",
+      "src": "iconPlayed",
+      "name": "弹弹堂弹弹堂dd1"
+    },
+    {
+      "href": "/played2",
+      "id": "2",
+      "src": "iconPlayed",
+      "name": "弹弹堂弹弹堂dd2"
+    },
+    {
+      "href": "/played3",
+      "id": "3",
+      "src": "iconPlayed",
+      "name": "弹弹堂弹弹堂dd3"
+    },
+    {
+      "href": "/played4",
+      "id": "4",
+      "src": "iconPlayed",
+      "name": "弹弹堂弹弹堂dd4"
+    },
+    {
+      "href": "/played5",
+      "id": "5",
+      "src": "iconPlayed",
+      "name": "弹弹堂弹弹堂dd5"
+    },
+    {
+      "href": "/played6",
+      "id": "6",
+      "src": "iconPlayed",
+      "name": "弹弹堂弹弹堂dd6"
+    },
+    {
+      "href": "/played7",
+      "id": "7",
+      "src": "iconPlayed",
+      "name": "弹弹堂弹弹堂dd7"
+    },
+    {
+      "href": "/played8",
+      "id": "8",
+      "src": "iconPlayed",
+      "name": "弹弹堂弹弹堂dd8"
+    }
+  ],
+  "rankItemArr": [
+    {
+      "id": 1,
+      "imgSrc": "iconList",
+      "gameName": "弹弹堂S",
+      "gameDesc": "弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S",
+      "gamePlayUrl": "http://h5.52gg.com/media.php/TuiRegister/open_game/pid/44/gid/1.html",
+      "gameTags": [
+        {
+          "id": 1,
+          "name": "热门"
+        },
+        {
+          "id": 2,
+          "name": "新游"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "imgSrc": "iconList",
+      "gameName": "弹弹堂S",
+      "gameDesc": "弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S",
+      "gamePlayUrl": "http://h5.52gg.com/media.php/TuiRegister/open_game/pid/44/gid/4.html",
+      "gameTags": [
+        {
+          "id": 1,
+          "name": "热门"
+        },
+        {
+          "id": 2,
+          "name": "新游"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "imgSrc": "iconList",
+      "gameName": "弹弹堂S",
+      "gameDesc": "弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S",
+      "gamePlayUrl": "http://h5.52gg.com/media.php/TuiRegister/open_game/pid/44/gid/2.html",
+      "gameTags": [
+        {
+          "id": 1,
+          "name": "热门"
+        },
+        {
+          "id": 2,
+          "name": "新游"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "imgSrc": "iconList",
+      "gameName": "弹弹堂S",
+      "gameDesc": "弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S",
+      "gamePlayUrl": "http://h5.52gg.com/media.php/TuiRegister/open_game/pid/44/gid/3.html",
+      "gameTags": [
+        {
+          "id": 1,
+          "name": "热门"
+        },
+        {
+          "id": 2,
+          "name": "新游"
+        }
+      ]
+    }
+  ],
+  "newItemArr": [
+    {
+      "id": 1,
+      "imgSrc": "iconList",
+      "gameName": "new弹弹堂S",
+      "gameDesc": "new弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S",
+      "gamePlayUrl": "http://h5.52gg.com/media.php/TuiRegister/open_game/pid/44/gid/4.html",
+      "gameTags": [
+        {
+          "id": 1,
+          "name": "new热门"
+        },
+        {
+          "id": 2,
+          "name": "new新游"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "imgSrc": "iconList",
+      "gameName": "new弹弹堂S",
+      "gameDesc": "new弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S",
+      "gamePlayUrl": "http://h5.52gg.com/media.php/TuiRegister/open_game/pid/44/gid/4.html",
+      "gameTags": [
+        {
+          "id": 1,
+          "name": "热门"
+        },
+        {
+          "id": 2,
+          "name": "new新游"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "imgSrc": "iconList",
+      "gameName": "new弹弹堂S",
+      "gameDesc": "new弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S",
+      "gamePlayUrl": "http://h5.52gg.com/media.php/TuiRegister/open_game/pid/44/gid/4.html",
+      "gameTags": [
+        {
+          "id": 1,
+          "name": "热门"
+        },
+        {
+          "id": 2,
+          "name": "新游"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "imgSrc": "iconList",
+      "gameName": "new弹弹堂S",
+      "gameDesc": "new弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S弹弹堂S",
+      "gamePlayUrl": "http://h5.52gg.com/media.php/TuiRegister/open_game/pid/44/gid/4.html",
+      "gameTags": [
+        {
+          "id": 1,
+          "name": "热门"
+        },
+        {
+          "id": 2,
+          "name": "新游"
+        }
+      ]
+    }
+  ],
+  "hotItemsArr": [
+    {
+      "id": "1",
+      "gameName": "弹弹堂S弹弹堂S",
+      "gameIcon": "iconLittle"
+    },
+    {
+      "id": "1",
+      "gameName": "弹弹堂S弹弹堂S",
+      "gameIcon": "iconLittle"
+    },
+    {
+      "id": "1",
+      "gameName": "弹弹堂S弹弹堂S",
+      "gameIcon": "iconLittle"
+    },
+    {
+      "id": "1",
+      "gameName": "弹弹堂S弹弹堂S",
+      "gameIcon": "iconLittle"
+    },
+    {
+      "id": "1",
+      "gameName": "弹弹堂S弹弹堂S",
+      "gameIcon": "iconLittle"
+    },
+    {
+      "id": "1",
+      "gameName": "弹弹堂S弹弹堂S",
+      "gameIcon": "iconLittle"
+    },
+    {
+      "id": "1",
+      "gameName": "弹弹堂S弹弹堂S",
+      "gameIcon": "iconLittle"
+    },
+    {
+      "id": "1",
+      "gameName": "弹弹堂S弹弹堂S",
+      "gameIcon": "iconLittle"
+    }
+  ]
+}
